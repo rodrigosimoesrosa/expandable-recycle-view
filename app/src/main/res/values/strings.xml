@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ExpandableRecyclerView</string>
+    <string name="horror">Horror</string>
+    <string name="exorcist">Exorcist</string>
+    <string name="rosemary_baby">Rosemary Baby</string>
+    <string name="sci_fi">Sci-Fi</string>
+    <string name="a_space_odyssey_2001">2001: A Space Odyssey</string>
+    <string name="interstellar">Interstellar</string>
+    <string name="aliens">Aliens</string>
 </resources>
